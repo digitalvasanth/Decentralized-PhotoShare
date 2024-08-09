@@ -4,7 +4,7 @@ This project enables decentralized image upload and sharing on the blockchain, u
 
 
 
-#Technologied Used:-
+# Technologied Used:-
 1. Solidity for smart contract development.
 2. IPFS for Decentralised storage protocol.
 3. React for the UI Interface.
