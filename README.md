@@ -54,7 +54,7 @@ a. Obtain API keys for Pinata to interact with IPFS.
 b. Update the React component (FileUpload.js) with your Pinata API keys.
 
 # After accomplishment of setup of variables:- 
-a. Install Metamask.
-b. Update Contract Address : after smart contract deployement , make sure of update of App.js within React file.
-c. Upload image before clicking 'Get data'.
-d. Access Other Images by clicking 'Get data'.
+1.  Install Metamask.
+2.  Update Contract Address : after smart contract deployement , make sure of update of App.js within React file.
+3.  Upload image before clicking 'Get data'.
+4. Access Other Images by clicking 'Get data'.
