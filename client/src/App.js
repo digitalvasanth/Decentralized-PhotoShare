@@ -28,7 +28,7 @@ function App() {
         const signer = provider.getSigner();
         const address = await signer.getAddress();
         setAccount(address);
-        let contractAddress = "Your Contract Address Here";
+        let contractAddress = "0xFABB0ac9d68B0B445fB7357272Ff202C5651694a";
 
         const contract = new ethers.Contract(
           contractAddress,
@@ -56,7 +56,7 @@ function App() {
       )}
 
       <div className="App">
-        <h1 style={{ color: "white" }}>Gdrive 3.0</h1>
+        <h1 style={{ color: "white" }}>Decentralized PhotoShare</h1>
         <div class="bg"></div>
         <div class="bg bg2"></div>
         <div class="bg bg3"></div>
